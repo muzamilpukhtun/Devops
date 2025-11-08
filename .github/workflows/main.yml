@@ -23,9 +23,13 @@ jobs:
          echo "Hello World 3"
 
 
-      - name: Barani_2
+      - name: Barani_4
         run: 
          echo "Hello World 4"
+
+      - name: Barani_5
+        run: 
+         echo "Hello World 5"
     
 
          
